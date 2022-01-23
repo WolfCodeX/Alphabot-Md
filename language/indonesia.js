@@ -594,27 +594,28 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 ⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
-😖🙏
+😖
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`Halo Kak Selamat Bergabung😊
 	
-📛 𝖭𝖺𝗆𝖺 :
-🔞 𝖴𝗆𝗎𝗋 :
-🧑 𝖦𝖾𝗇𝖽𝖾𝗋 :
-🏙️ 𝖠𝗌𝗄𝗈𝗍 :
-╰ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+Intro Dulu Yuk Kak
+›❥ 𝖭𝖺𝗆𝖺 :
+›❥ 𝖴𝗆𝗎𝗋 :
+›❥ 𝖦𝖾𝗇𝖽𝖾𝗋 :
+›❥ 𝖠𝗌𝗄𝗈𝗍 :
+Patuhi Rules Grub Yang Berlaku Ya Kak!`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
-Goodbye`
+	return`Sayonara Semoga Harimu Suram ~`
 }
 exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 Recode : https://github.com/zeeoneofc/Alphabot-Md
+Recode 2 : XCode Team
 `
 }
 exports.tos = (ownernomer) => {
